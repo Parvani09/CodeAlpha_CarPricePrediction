@@ -1,0 +1,18 @@
+Task 3: Car Price Prediction using Machine Learning
+
+Key Insights
+
+1.  Present Price is one of the strongest factors affecting Selling
+    Price.
+2.  Car Age negatively impacts resale value.
+3.  Fuel Type and Transmission influence market value.
+4.  Feature engineering improved model performance.
+5.  Random Forest generally delivered stronger prediction accuracy.
+6.  Data cleaning improved reliability.
+
+Summary
+
+Machine Learning models were used to predict car prices and identify the
+most important pricing factors.
+
+Author: Parvani Patil
